@@ -13,6 +13,17 @@
 | cholesky | 0.099 |
 | eigendecomp | 6.177 |
 
+### numpy_benchmarks.py (accelerate)
+=======
+| datagen | 0.381 |
+| special | 0.447 |
+| stats | 0.97 |
+| matmul | 0.598 |
+| vecmul | 0.01 |
+| svd | 0.475 |
+| cholesky | 0.074 |
+| eigendecomp | 5.737 |
+
 
 ## M1 Max MacBook Pro (32GB RAM, GPU Cores:32) (from tlkh)
 
