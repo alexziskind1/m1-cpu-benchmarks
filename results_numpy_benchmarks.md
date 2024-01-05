@@ -98,3 +98,29 @@
 | svd | 0.258 |
 | cholesky | 0.059 |
 | eigendecomp | 3.682 |
+
+## Core i9 RTX4090 (MSI GE78HX)
+
+### numpy_benchmarks.py (unplugged)
+=======
+| datagen | 0.429 |
+| special | 0.432 |
+| stats | 1.09 |
+| matmul | 0.796 |
+| vecmul | 0.008 |
+| svd | 0.596 |
+| cholesky | 0.122 |
+| eigendecomp | 5.24 |
+
+### numpy_benchmarks.py (plugged in)
+=======
+| datagen | 0.341 |
+| special | 0.424 |
+| stats | 0.865 |
+| matmul | 0.431 |
+| vecmul | 0.008 |
+| svd | 0.298 |
+| cholesky | 0.084 |
+| eigendecomp | 2.592 |
+
+
